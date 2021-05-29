@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google_BigQueryResults_XUnit_Example", "Google_BigQueryResults_XUnit_Example\Google_BigQueryResults_XUnit_Example.csproj", "{27F026B3-C36B-4E91-9A6D-329ED38F28EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google_BigQueryResults_XUnit_Example_Tests", "Google_BigQueryResults_XUnit_Example_Tests\Google_BigQueryResults_XUnit_Example_Tests.csproj", "{041477D4-34AA-4DFC-A7B9-E3CD9DBA368B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F026B3-C36B-4E91-9A6D-329ED38F28EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F026B3-C36B-4E91-9A6D-329ED38F28EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F026B3-C36B-4E91-9A6D-329ED38F28EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F026B3-C36B-4E91-9A6D-329ED38F28EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{041477D4-34AA-4DFC-A7B9-E3CD9DBA368B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041477D4-34AA-4DFC-A7B9-E3CD9DBA368B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041477D4-34AA-4DFC-A7B9-E3CD9DBA368B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041477D4-34AA-4DFC-A7B9-E3CD9DBA368B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76D6B6E4-5551-488D-801A-D81EDAAA05DF}
+	EndGlobalSection
+EndGlobal
